@@ -4,12 +4,12 @@ public class PlayerBehavior : MonoBehaviour
 {
     [SerializeField] private float speed = 5f;
     [SerializeField] private float jumpForce = 5f;
-    private Rigidbody2D rigidbody;
+    private Rigidbody2D playerRigidbody;
     private IsGroundedChecker isGroundedChecker;
 
     private void Awake()
     {
-        rigidbody = GetComponent<Rigidbody2D>();
+        playerRigidbody = GetComponent<Rigidbody2D>();
         isGroundedChecker = GetComponent<IsGroundedChecker>();
     }
 
@@ -22,11 +22,20 @@ public class PlayerBehavior : MonoBehaviour
     {
         float moveDirection = GameManager.Instance.InputManager.Movement;
         transform.Translate(moveDirection * Time.deltaTime * speed, 0, 0);
+
+        if (moveDirection < 0)
+        {
+            transform.localScale = new Vector3(-1, 1, 1);
+        }
+        else if (moveDirection > 0)
+        {
+            transform.localScale = Vector3.one;
+        }
     }
 
     private void HandleJump()
     {
         if (isGroundedChecker.IsGrounded() == false) return;
-        rigidbody.linearVelocity += Vector2.up * jumpForce;
+        playerRigidbody.linearVelocity += Vector2.up * jumpForce;
     }
 }

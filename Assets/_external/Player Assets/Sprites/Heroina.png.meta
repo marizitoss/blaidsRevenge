@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: b017e4d2acfa19645bafaa17870ee32a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2174429982289930780
+    second: Heroina_0
+  - first:
+      213: 5418782561057669773
+    second: Heroina_1
+  - first:
+      213: 1593538262430548751
+    second: Heroina_2
+  - first:
+      213: -1482786443899887379
+    second: Heroina_3
+  - first:
+      213: -6716500905647737611
+    second: Heroina_4
+  - first:
+      213: -4382999829824802192
+    second: Heroina_5
+  - first:
+      213: -6620610236172800399
+    second: Heroina_6
+  - first:
+      213: -6057653386502763617
+    second: Heroina_7
+  - first:
+      213: 9059916154324830900
+    second: Heroina_8
+  - first:
+      213: -314719401271219427
+    second: Heroina_9
+  - first:
+      213: 3708925616344271842
+    second: Heroina_10
+  - first:
+      213: -2293938282128580000
+    second: Heroina_11
+  - first:
+      213: -8853653151710460749
+    second: Heroina_12
+  - first:
+      213: 1666628805234134443
+    second: Heroina_13
+  - first:
+      213: 4525547472774149702
+    second: Heroina_14
+  - first:
+      213: -4052005990152576177
+    second: Heroina_15
+  - first:
+      213: 6654862052156810754
+    second: Heroina_16
+  - first:
+      213: 3664437535412624629
+    second: Heroina_17
+  - first:
+      213: 2974888950567147855
+    second: Heroina_18
+  - first:
+      213: 4006727149965943389
+    second: Heroina_19
+  - first:
+      213: -6250387762599823348
+    second: Heroina_20
+  - first:
+      213: -7399719943541855528
+    second: Heroina_21
+  - first:
+      213: -7154823490324122750
+    second: Heroina_22
+  - first:
+      213: -2929030505069092654
+    second: Heroina_23
+  - first:
+      213: -3601390934387173638
+    second: Heroina_24
+  - first:
+      213: -1037004036801381316
+    second: Heroina_25
+  - first:
+      213: 2733223008290999815
+    second: Heroina_26
+  - first:
+      213: 576009983637994378
+    second: Heroina_27
+  - first:
+      213: 8929652864110168977
+    second: Heroina_28
+  - first:
+      213: 6497561497766613272
+    second: Heroina_29
+  - first:
+      213: 4527018512212414250
+    second: Heroina_30
+  - first:
+      213: 1439355414892134781
+    second: Heroina_31
+  - first:
+      213: 2010896033907194832
+    second: Heroina_32
+  - first:
+      213: 5177116418515390394
+    second: Heroina_33
+  - first:
+      213: 2254483606107291146
+    second: Heroina_34
+  - first:
+      213: -3150227742748828977
+    second: Heroina_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heroina_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1179
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb91b4ffc5cb22b44894de78c8127892
+      internalID: 1833509739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1179
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f8ce3a6a972944b6a294b761e101e
+      internalID: 503379649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1179
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bbafc95dad92940bff1357cb1b2e9a
+      internalID: -996761057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1179
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67094ff614e6fed458e2f8ae56d2da3b
+      internalID: -2013934245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_4
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1179
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1b91429dcc5554c832493a6e3b7197
+      internalID: -1463444567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1011
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1618b9b413d444a935f4b4503ea10e
+      internalID: 212139625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1011
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242eec4687d50dc448f2600f0b6325f8
+      internalID: 431582358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1011
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90caa7259c2e2f4b90c6f91cf7e119f
+      internalID: -914388864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1011
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a78616768aa74aa1d1132d2d89a35
+      internalID: 1049330617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_9
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1011
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff584177f7c57ba419948389cd4606e3
+      internalID: -59660299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 843
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ddfd3a1ae9f5a4aa730b7f0150df3c
+      internalID: 2108981947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 843
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b681866ccafd054a9563b8b743a08c4
+      internalID: -686959145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_12
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 843
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b90938003592d47bb3bd5243a91e53
+      internalID: 1891864503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_13
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 843
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50acfd9636fbb04a89686c08f1d2ba2
+      internalID: 1619687255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 843
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f55f070f078bd4092635abe4a508cb
+      internalID: -514017639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 675
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b991a927731241b42a235ce448b874a3
+      internalID: -964649370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 675
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6a4d41583cfc44db4bb3035d094347
+      internalID: 1521008207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 675
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae1edd85e5948c4691c931d970f6128
+      internalID: 477550268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_18
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 675
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a510786a316fc8e428d3f45126ffb1cf
+      internalID: -1414128735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_19
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 675
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed28146a2a9bbd6428d3016ed8e3d0cd
+      internalID: 246085011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 507
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ec05a9caab89e468d8b606ce384445
+      internalID: 236870630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 507
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7242597fe30eb7e459f171228bcf11bb
+      internalID: -1187814084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_22
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 507
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f13de90cc17064c8d7d51319a24ab3
+      internalID: 946763481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_23
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 507
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978201f83139534478814a0dcc87c4ef
+      internalID: 294309929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_24
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 507
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f442e650fe7654185efdd03cce46b6
+      internalID: -900503417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 339
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4154bdbf45133c14189cfbf0ebb957af
+      internalID: 968633187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_26
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 339
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a98dc13a694df46af0a4da37f77192
+      internalID: 1142212948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 339
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d61ae9084f1f74aaae045caadcb3da
+      internalID: 472028595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_28
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 339
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad5674c68072ac498323c09251268d4
+      internalID: -56208147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_29
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 339
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bb5cdb7bb9bb7428eded89172904ec
+      internalID: -344577340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 171
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111ebd500a0bb3a43adc9789aeafcc24
+      internalID: -1097895080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 171
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c67a55d2678c92459f6936740bbd6da
+      internalID: -470295838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 171
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1b060723eca3549b5f2bdc40394a67
+      internalID: 696430237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_33
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 171
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7158b481cf9c0418abcceb23e03f98
+      internalID: -1868780125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_34
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 171
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fb87a542d78c64bbc4f378147b584f
+      internalID: 2041740360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heroina_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54cd3337daf5de4db5e984dd7cc545c
+      internalID: 1786142546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 385afa6453264384cbb2a050a0a60171
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Heroina_0: 1833509739
+      Heroina_1: 503379649
+      Heroina_10: 2108981947
+      Heroina_11: -686959145
+      Heroina_12: 1891864503
+      Heroina_13: 1619687255
+      Heroina_14: -514017639
+      Heroina_15: -964649370
+      Heroina_16: 1521008207
+      Heroina_17: 477550268
+      Heroina_18: -1414128735
+      Heroina_19: 246085011
+      Heroina_2: -996761057
+      Heroina_20: 236870630
+      Heroina_21: -1187814084
+      Heroina_22: 946763481
+      Heroina_23: 294309929
+      Heroina_24: -900503417
+      Heroina_25: 968633187
+      Heroina_26: 1142212948
+      Heroina_27: 472028595
+      Heroina_28: -56208147
+      Heroina_29: -344577340
+      Heroina_3: -2013934245
+      Heroina_30: -1097895080
+      Heroina_31: -470295838
+      Heroina_32: 696430237
+      Heroina_33: -1868780125
+      Heroina_34: 2041740360
+      Heroina_35: 1786142546
+      Heroina_4: -1463444567
+      Heroina_5: 212139625
+      Heroina_6: 431582358
+      Heroina_7: -914388864
+      Heroina_8: 1049330617
+      Heroina_9: -59660299
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
