@@ -6,6 +6,7 @@ public class PlayerBehavior : MonoBehaviour
     [SerializeField] private float jumpForce = 5f;
     private Rigidbody2D playerRigidbody;
     private IsGroundedChecker isGroundedChecker;
+    private float moveDirection;
 
     private void Awake()
     {
@@ -20,9 +21,18 @@ public class PlayerBehavior : MonoBehaviour
 
     private void Update()
     {
-        float moveDirection = GameManager.Instance.InputManager.Movement;
-        transform.Translate(moveDirection * Time.deltaTime * speed, 0, 0);
+        MovePlayer();
+        FlipSpriteAccordingToMoveDirection();
+    }
 
+    private void MovePlayer()
+    {
+        moveDirection = GameManager.Instance.InputManager.Movement;
+        transform.Translate(moveDirection * Time.deltaTime * speed, 0, 0);
+    }
+
+    private void FlipSpriteAccordingToMoveDirection()
+    {
         if (moveDirection < 0)
         {
             transform.localScale = new Vector3(-1, 1, 1);
